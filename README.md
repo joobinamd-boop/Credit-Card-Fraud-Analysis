@@ -55,10 +55,17 @@ The Power BI dashboard provides an interactive overview of credit card transacti
 ---
 ## Business Insights
 
-- Fraudulent transactions represent a very small portion of the total transactions.
-- The dataset contains a strong imbalance between normal and fraudulent transactions.
-- Fraud cases can be analyzed across different time periods to identify patterns.
-- Transaction amount analysis helps understand the monetary value associated with fraudulent transactions.
+1. What is the overall distribution of normal and fraudulent transactions?
+       Normal transactions make up the vast majority of the dataset, while fraudulent transactions represent a very small portion.
+
+2. Are fraudulent transactions concentrated in particular time periods?
+     Fraud cases vary across different elapsed hours, with some time periods showing higher numbers of fraudulent transactions.
+
+3. What is the average transaction amount?
+    The average transaction amount provides an overview of the typical value of transactions in the dataset.
+
+4. How does the amount involved in fraudulent transactions change over time?
+      The fraudulent transaction amount varies across the recorded time period, helping identify periods with higher-value fraudulent activity.
 
 ---
 ## Conclusion
