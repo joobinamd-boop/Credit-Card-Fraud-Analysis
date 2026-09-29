@@ -29,6 +29,9 @@ This project analyzes credit card transaction data to identify fraudulent transa
 
 ---
 ## SQL Analysis
+<img width="586" height="548" alt="Screenshot 2026-09-28 133745" src="https://github.com/user-attachments/assets/da437e9f-5659-4e2a-9106-abe777163616" />
+<img width="636" height="365" alt="Screenshot 2026-09-28 133859" src="https://github.com/user-attachments/assets/50dc402f-1ff9-48c7-af9f-b20aa9a48000" />
+
 
 The transaction data was analyzed using SQL to answer business-related questions, including:
 
@@ -43,6 +46,8 @@ The transaction data was analyzed using SQL to answer business-related questions
 ## Power BI Dashboard
 
 The Power BI dashboard provides an interactive overview of credit card transactions.
+<img width="1771" height="805" alt="Screenshot 2026-09-28 132317" src="https://github.com/user-attachments/assets/7d784672-9632-4e32-8981-fec40afff374" />
+
 
 ---
 ### Dashboard Visuals
